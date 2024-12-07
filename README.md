@@ -5,9 +5,8 @@
 - **Description**: A text-based adventure game where players navigate a dark asylum by making choices that determine their fate.
 
 ## Where the Code is Hosted
-- **GitHub Repository**: [Insert Link Here after Upload]
-- **PythonAnywhere Console**: [
-](https://www.pythonanywhere.com/shared_console/b282955f-2a11-4810-8f3e-a3aeb622b545)
+- **GitHub Repository**: [(https://github.com/Davidcardona18/ASYLUM-OF-SHADOWS.git)]
+- **PythonAnywhere Console**: [ (https://www.pythonanywhere.com/shared_console/b282955f-2a11-4810-8f3e-a3aeb622b545) ]
 ## External Services
 - No external services are used in this project.
 
